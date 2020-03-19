@@ -1,0 +1,42 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Prasoon Jha",
+  "devDesc": "| Engineer | Programmer | Web Developer | Athlete | Artist ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/prasoonjha",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/prasoon.jha.52",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/prasoon1010/?hl=en",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/prasoon-jha-b21642132/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "prasoon1010",
+  "instaQuerry": "/?hl=en",
+  "showInstaProfilePic": true,
+  "aboutDev": "A final year Engineering Student from Delhi Technological University, Delhi, with a keen intrigue for the World Wide Web.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "prasoonjha",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4
+}
